@@ -13,7 +13,8 @@ Real keyloggers are much more malicious and dangerous because of the following r
 
 If you download the file and run it you can stop it by pressing CTRL+C or ESC.
 
-You need pynput for this script. If you dont already have it install it with: 
+You need pynput for this script. If you dont already have it install it with:
+```
 pip install pynput
-
+```
 This repository is purely for educational purposes!
